@@ -1,0 +1,11 @@
+{
+  "namespace": "com.example.parquet.model",
+  "type": "record",
+  "name": "ServiceRecord",
+  "fields": [
+    {"name": "id", "type": "string"},
+    {"name": "name", "type": "string"},
+    {"name": "serviceName", "type": "string"},
+    {"name": "status", "type": "string"}
+  ]
+}

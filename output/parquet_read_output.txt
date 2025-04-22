@@ -1,0 +1,6 @@
+Reading Parquet file content from: output/service_record.parquet
+Record content:
+  id: 456
+  name: Optimized Service
+  serviceName: OptimizedService
+  status: RUNNING
